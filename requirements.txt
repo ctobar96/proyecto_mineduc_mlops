@@ -1,0 +1,21 @@
+# Procesamiento de Datos (Data Engineering)
+pyspark==3.5.1
+pandas==2.2.1
+
+# Machine Learning y MLOps
+scikit-learn==1.4.1.post1
+mlflow==2.11.1
+
+# Seguridad y Privacidad Diferencial
+#diffprivlib==0.6.2
+
+# API de Inferencia (Backend)
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Interfaz de Usuario (Frontend)
+streamlit==1.32.2
+
+# Utilidades y Testing
+pytest==8.1.1
+python-dotenv==1.0.1
